@@ -94,3 +94,5 @@ temp/
 # Package lock files (optional - you can choose to include these)
 # package-lock.json
 # yarn.lock
+
+SECURITY.md
