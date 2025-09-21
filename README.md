@@ -202,4 +202,4 @@ The analyzer provides metrics including:
 
 ---
 
-**Built with ❤️ for video quality analysis**
+
