@@ -56,7 +56,6 @@ mysql -u root -p < schema.sql
 cp .env.example Backend/.env
 # Edit Backend/.env with your actual database credentials
 ```
-**⚠️ Important:** See [SECURITY.md](SECURITY.md) for credential management
 
 ### 4. Backend Setup
 ```bash
@@ -187,10 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **Port Conflicts**: Default ports are 3000 (frontend) and 5000 (backend)
 4. **Python Dependencies**: Run `pip install -r requirements.txt`
 
-### Support
-
-- Create an issue on GitHub
-- Check the [TESTING_GUIDE.md](TESTING_GUIDE.md) for setup help
 
 ## 📊 Sample Results
 
